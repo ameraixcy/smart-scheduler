@@ -34,4 +34,4 @@ This project is maintained by Almera Bechachino. Contributions are welcome — w
 
 
 ## Author
-- [Almera Bechachino]
+- Almera Bechachino
